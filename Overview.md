@@ -9,4 +9,4 @@ Parts:
 1 Node MCU Esp32
 Lots of wires
 3D-printed robot base and skateboard deck (see stl files)
-1 9V Battery
+1 9V Battery 
